@@ -1,6 +1,11 @@
 //
 // Created by Akeen Lewis on 3/2/25.
 //
+/*
+*Work out the details of supporting constant-time deletion from a singly
+linked list as per the footnote from page 79, ideally to an actual implementation.
+Support the other operations as efficiently as possible.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
